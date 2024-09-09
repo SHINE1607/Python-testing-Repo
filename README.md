@@ -2,7 +2,7 @@
 This repository focus on implementing pytest loibrary on a scratch python module
 
 ## How to run sample tests
-`pytest tests/test_school.py`
+`pytest tests/test_school.py`<br />
 `pytest tests/test_service.py`
 
 ## Key topics under discussion
