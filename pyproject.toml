@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "python-testing-repo"
+version = "0.1.0"
+description = "This respoistory focuses on key aspects of pytest module"
+authors = ["SHINE1607"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pytest = "^8.3.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
